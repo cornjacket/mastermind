@@ -1,3 +1,5 @@
+# error in game class with reference to @ref. ref should be @ref
+
 # mastermind
 
 # TODO
